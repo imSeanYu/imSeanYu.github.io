@@ -2466,7 +2466,7 @@
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #181818;
+		background: linear-gradient(#000000, #404040);
 		color: #d1f1e9;
 		height: 100%;
 		overflow-y: auto;
@@ -2606,7 +2606,7 @@
 
 	#one:before {
 		background-image: url("../../images/bgp.png");
-		background-position: 0 -50px;
+		background-position: 0 -30px;
 		background-repeat: no-repeat;
 		background-size: cover;
 		content: '';
